@@ -6,7 +6,7 @@ Mi nombre es Brais Márquez y este es el repositorio del encabezado de una pági
 Esta página web está diseñada para pantallas con un ancho de 1200px. Incluye elementos como el logotipo de la marca, el menú de navegación, opciones de acceso y registro, y otras funcionalidades importantes para la navegación y la interacción con el sitio.
 
 ## Vista previa
-![alt text](CSS-Proyectos-03-Creative-Agency-02-25-2025_08_47_PM)
+![alt text](CSS-Proyectos-03-Creative-Agency-02-25-2025_08_47_PM.png)
 
 [![Static Badge](https://img.shields.io/badge/Ver%20Codigo%20-%20%23F16718?style=for-the-badge&logoColor=%23F16718&labelColor=%23F16718)](/src/)
 
